@@ -1,0 +1,12 @@
+C:\Users\pc\OneDrive\Escritorio\Lic En Informáti4semestre\Programación III\Prof Aldo\Proyectos de c#\clinica_gabriel_cabrera\Modelo\bin\Debug\Modelo.exe.config
+C:\Users\pc\OneDrive\Escritorio\Lic En Informáti4semestre\Programación III\Prof Aldo\Proyectos de c#\clinica_gabriel_cabrera\Modelo\bin\Debug\Modelo.exe
+C:\Users\pc\OneDrive\Escritorio\Lic En Informáti4semestre\Programación III\Prof Aldo\Proyectos de c#\clinica_gabriel_cabrera\Modelo\bin\Debug\Modelo.pdb
+C:\Users\pc\OneDrive\Escritorio\Lic En Informáti4semestre\Programación III\Prof Aldo\Proyectos de c#\clinica_gabriel_cabrera\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\pc\OneDrive\Escritorio\Lic En Informáti4semestre\Programación III\Prof Aldo\Proyectos de c#\clinica_gabriel_cabrera\Modelo\obj\Debug\Modelo.exe
+C:\Users\pc\OneDrive\Escritorio\Lic En Informáti4semestre\Programación III\Prof Aldo\Proyectos de c#\clinica_gabriel_cabrera\Modelo\obj\Debug\Modelo.pdb
+D:\Lic En Informáti4semestre\Programación III\Prof Aldo\Proyectos de c#\clinica_gabriel_cabrera\Modelo\bin\Debug\Modelo.exe.config
+D:\Lic En Informáti4semestre\Programación III\Prof Aldo\Proyectos de c#\clinica_gabriel_cabrera\Modelo\bin\Debug\Modelo.exe
+D:\Lic En Informáti4semestre\Programación III\Prof Aldo\Proyectos de c#\clinica_gabriel_cabrera\Modelo\bin\Debug\Modelo.pdb
+D:\Lic En Informáti4semestre\Programación III\Prof Aldo\Proyectos de c#\clinica_gabriel_cabrera\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+D:\Lic En Informáti4semestre\Programación III\Prof Aldo\Proyectos de c#\clinica_gabriel_cabrera\Modelo\obj\Debug\Modelo.exe
+D:\Lic En Informáti4semestre\Programación III\Prof Aldo\Proyectos de c#\clinica_gabriel_cabrera\Modelo\obj\Debug\Modelo.pdb
